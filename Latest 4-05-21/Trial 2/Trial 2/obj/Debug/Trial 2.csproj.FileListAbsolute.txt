@@ -1,0 +1,7 @@
+C:\Users\NEC\source\repos\Trial 2\Trial 2\bin\Debug\Trial 2.exe.config
+C:\Users\NEC\source\repos\Trial 2\Trial 2\bin\Debug\Trial 2.exe
+C:\Users\NEC\source\repos\Trial 2\Trial 2\bin\Debug\Trial 2.pdb
+C:\Users\NEC\source\repos\Trial 2\Trial 2\obj\Debug\Trial 2.csprojAssemblyReference.cache
+C:\Users\NEC\source\repos\Trial 2\Trial 2\obj\Debug\Trial 2.csproj.CoreCompileInputs.cache
+C:\Users\NEC\source\repos\Trial 2\Trial 2\obj\Debug\Trial 2.exe
+C:\Users\NEC\source\repos\Trial 2\Trial 2\obj\Debug\Trial 2.pdb

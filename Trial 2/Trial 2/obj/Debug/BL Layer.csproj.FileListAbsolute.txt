@@ -1,0 +1,7 @@
+C:\Users\NEC\Desktop\Aeron Files\Trial 2\Trial 2\bin\Debug\Trial 2.exe.config
+C:\Users\NEC\Desktop\Aeron Files\Trial 2\Trial 2\bin\Debug\Trial 2.exe
+C:\Users\NEC\Desktop\Aeron Files\Trial 2\Trial 2\bin\Debug\Trial 2.pdb
+C:\Users\NEC\Desktop\Aeron Files\Trial 2\Trial 2\obj\Debug\BL Layer.csprojAssemblyReference.cache
+C:\Users\NEC\Desktop\Aeron Files\Trial 2\Trial 2\obj\Debug\BL Layer.csproj.CoreCompileInputs.cache
+C:\Users\NEC\Desktop\Aeron Files\Trial 2\Trial 2\obj\Debug\Trial 2.exe
+C:\Users\NEC\Desktop\Aeron Files\Trial 2\Trial 2\obj\Debug\Trial 2.pdb
